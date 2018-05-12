@@ -1,0 +1,39 @@
+_repo: Three-Margarets_22293
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Barry, Etheldred B. (Etheldred Breeze)
+    aliases:
+    - Barry, Etheldred Breeze
+    - Barry, Ethelred Breeze
+    - Barry, E. B. (Etheldred Breeze)
+    birthdate: 1870
+    gutenberg_agent_id: '6348'
+    url: http://www.gutenberg.org/2009/agents/6348
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Richards, Laura Elizabeth Howe
+    alias: Richards, Laura E.
+    birthdate: 1850
+    deathdate: 1943
+    gutenberg_agent_id: '1753'
+    url: http://www.gutenberg.org/2009/agents/1753
+    wikipedia: http://en.wikipedia.org/wiki/Laura_E._Richards
+description: ''
+gutenberg_issued: '2007-08-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22293'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Young women -- Juvenile fiction'
+- !lcsh 'Cousins -- Juvenile fiction'
+- !lcc 'PZ'
+title: Three Margarets
+url: http://www.gutenberg.org/ebooks/22293
