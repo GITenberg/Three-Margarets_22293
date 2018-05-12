@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1753
     wikipedia: http://en.wikipedia.org/wiki/Laura_E._Richards
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22293#Three-Margarets
 gutenberg_issued: '2007-08-10'
 gutenberg_type: Text
 identifiers:
